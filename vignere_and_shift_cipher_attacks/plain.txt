@@ -1,0 +1,11 @@
+Principles of modern cryptography
+over the past several decades cryptography has developed into more of a science schemes
+are now developed and analyzed in a more systematic manner with the ultimate goal
+being to give a rigorous proof that a given construction is secure in order to articulate
+such proofs we first need formal definitions that pin down exactly what secure means
+such definitions are useful and interesting in their own right as it turns out most
+cryptographic proofs rely on currently unproven assumptions about the algorithmic
+hardness of certain mathematical problems any such assumptions must be made explicit
+and be stated precisely an emphasis on definitions assumptions and proofs distinguishes
+modern cryptography from classical cryptography we now discuss these three principles
+in greater detail
